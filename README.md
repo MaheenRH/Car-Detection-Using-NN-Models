@@ -66,7 +66,7 @@ The notebook `Car_Detection_Using_NN_Models.ipynb` includes:
 ---
 
 ---
-<img width="794" height="455" alt="image" src="https://github.com/user-attachments/assets/b7597929-3dec-4756-a558-473c4d62476c" />
+
 
 ## 🖼 Example Results
 
